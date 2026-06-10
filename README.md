@@ -161,26 +161,6 @@ amazon-product-intelligence/
 ├── README.md
 └── .gitignore
 ```
-## Exploratory Data Analysis
-
-### Rating Distribution
-
-![Rating Distribution](assets/rating_distribution.png)
-
-### Review Length Distribution
-
-![Review Length Distribution](assets/review_length_distribution.png)
-
-### Review Length vs Rating
-
-![Review Length vs Rating](assets/review_length_vs_rating.png)
-
-## Model Evaluation
-
-### Confusion Matrix
-
-![Confusion Matrix](assets/confusion_matrix.png)
-
 ---
 
 ## Screenshots
@@ -262,7 +242,25 @@ Request:
   "product_id": "141278509X"
 }
 ```
+## Exploratory Data Analysis
 
+### Rating Distribution
+
+![Rating Distribution](assets/rating_distribution.png)
+
+### Review Length Distribution
+
+![Review Length Distribution](assets/review_length_distribution.png)
+
+### Review Length vs Rating
+
+![Review Length vs Rating](assets/review_length_vs_rating.png)
+
+## Model Evaluation
+
+### Confusion Matrix
+
+![Confusion Matrix](assets/confusion_matrix.png)
 ---
 
 ## Future Improvements
